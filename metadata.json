@@ -1,0 +1,5 @@
+{
+  "name": "특학 기출분석기",
+  "description": "A specialized AI tutor for analyzing Special Education teacher certification exam questions. Upload a question to get a deep analysis, legal grounds, and strategic solution logic.",
+  "requestFramePermissions": []
+}
